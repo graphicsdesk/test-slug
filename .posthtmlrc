@@ -7,12 +7,58 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Leadin. Something to draw the reader in. Graphics is the only visuals and words desk at the Spectator."
+          },
+          {
+            "type": "text",
+            "value": "Nutgraf. What is the meat of the story? Why does this matter?"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "graphic-template.html"
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/2MKXAA6XQ5HGRAG2IQA62B5ZTM.jpg",
+              "caption": "Whatever Whatever",
+              "credit": "Caitlin Buckley"
+            }
+          },
+          {
+            "type": "illustration",
+            "value": {
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/2MKXAA6XQ5HGRAG2IQA62B5ZTM.jpg",
+              "caption": "Whatever Whatever",
+              "credit": "Caitlin Buckley"
+            }
+          },
+          {
+            "type": "text",
+            "value": "<i>Charlotte Li is a Graphics deputy editor. She can be contacted at </i><a href=\"mailto:charlotte.li@columbiaspectator.com\"><i>charlotte.li@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Jun Yi Zhang is a Graphics reporter. She can be contacted at </i><a href=\"mailto:junyi.zhang@columbiaspectator.com\"><i>junyi.zhang@columbiaspectator.com</i></a><i>.</i>"
+          }
+        ],
+        "headline": "The U.S. and Ivy League schools were late to respond to COVID-19. The U.S. and Ivy League schools were late to respond to COVID-19. The U.S. and Ivy League schools were late to respond to COVID-19.",
+        "date": "October 17, 2019",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Charlotte-Li\">Charlotte Li</a>",
+        "byline2": "Graphic by Andrew Park",
+        "byline3": "Edited by Irie Sentner",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/2MKXAA6XQ5HGRAG2IQA62B5ZTM.jpg",
+        "cover_caption": "Photo by Caitlin Buckley",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1Hu48I_KB4o36XbKWVLpsPNJ9rNl5kS4bcMVwpJlZI4o/edit"
       }
     }
   }
